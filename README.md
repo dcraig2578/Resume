@@ -1,1 +1,2 @@
 # Resume
+Hello and thank you for reviewing my resume. I'm hoping to display some of my skills I have developed over the last 3 months learning coding languages. I'm a fast learner and have quickly become obsessed with coding languages and the process of testing/maintaining code. I had the pleasure of learning the majority of my knowledge via James Krepelka a Sr. Software Engineer who has recently transitioned to teaching. Once the basics were established and I could understand what I was reading github and other online forum resources have accelerated my learning progress.
